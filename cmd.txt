@@ -1,0 +1,28 @@
+Les commandes linux.
+cd .. : Retour au dossier précèdent.
+
+cd ~ : Retour au dossier source.
+
+pwd (Print Working Directory) : Vous affiche l'emplacement du répertoire dans lequel vous vous trouvez.
+
+ls : Affiche toute la liste de vos fichiers et dossiers.
+
+ls -a : Affiche toute la liste de vos fichiers et dossiers + les éléments invisibles.
+
+touch "nom du fichier + extension fichier" : Créer un fichier.
+
+mkdir "nom du dossier" : Permet de créer un nouveau répertoire (dossier).
+
+rm : Supprimez de manière définitive un fichier (tapez "rm" puis le nom de votre fichier après un espace).
+
+cp : Pour copier un fichier (tapez cp/ puis le chemin qui mène à votre fichier).
+
+mv : Pour déplacer un fichier entre vos répertoires.
+
+clear : Effacer les lignes précédentes
+
+
+
+La commande sudo permet à un administrateur système d'accorder à certains utilisateurs (ou groupes d'utilisateurs) 
+la possibilité de lancer une commande en tant qu'administrateur, ou en tant qu'autre utilisateur, elle ne s'exécute en terminal
+et donne par exemple de donner des commandes en superutilisateur.
